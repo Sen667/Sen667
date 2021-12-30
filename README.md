@@ -32,7 +32,16 @@
   <img src="https://profile-counter.glitch.me/sen667/count.svg" />
 </p>
 
-
+<div align="center">
+  <tr style="display:flex; justify-content: space-around">
+    <td align="center" width="50%" style="margin: auto 0">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sen667" width="50%"/>
+    </td>
+      <td align="center" width="50%" style="margin-right: 40px;">
+      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sen667"/>
+    </td>
+  </tr>
+</div>
 # - 📫 My discord Sen#7701
 <!---
 Sen667/Sen667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
