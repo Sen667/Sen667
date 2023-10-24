@@ -1,51 +1,28 @@
+<h1 align="center">Hi 👋, I'm @Sen667</h1>
+<h3 align="center">A computer enthusiast who comes from France</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sen667&label=Profile%20views&color=0e75b6&style=flat" alt="sen667" /> </p>
 
-- 👋 Hi, I’m @Sen667 
-- 📫 How to reach me: [Discord](https://discord.gg/43cBhJgu79)
-- 🌱 Learning javascipt and python
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sen667" alt="sen667" /></a> </p>
 
-## 🌍 Programming languages:
+- 🌱 I’m currently learning **Javascipt, Python, HTML and CSS.**
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- 
+- 📫 Reach me **discord : sen.eth**
 
-## ⚙️ Programming Tools:
-
-  [<img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>](https://github.com)
-  [<img alt="nodeJS" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png"/>](https://nodejs.org/en/)
-  
-  
-  
-## 📦 Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## 🔧 OS :
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-       |   
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sen667/count.svg" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/sen667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sen667" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sen667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sen667" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <tr style="display:flex; justify-content: space-around">
-    <td align="center" width="50%" style="margin: auto 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sen667" width="50%"/>
-    </td>
-      <td align="center" width="50%" style="margin-right: 40px;">
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sen667"/>
-    </td>
-  </tr>
-</div>
-<p># - 📫 My discord sen.eth </p>
-<p># - Donnation 🪙 | eth : 0x9dA19a5dC98F1c9E6de95a88CA8E9b76A580F1B8<p>
-Thanks 
-<!---
-Sen667/Sen667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/seneth"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seneth" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sen667&show_icons=true&locale=en&layout=compact" alt="sen667" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sen667&show_icons=true&locale=en" alt="sen667" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sen667&" alt="sen667" /></p>
