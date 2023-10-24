@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sen667&label=Profile%20views&color=0e75b6&style=flat" alt="sen667" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sen667" alt="sen667" /></a> </p>
-
 - 🌱 I’m currently learning **Javascipt, Python, HTML and CSS.**
 
 - 📫 Reach me **discord : sen.eth**
