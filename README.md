@@ -42,7 +42,7 @@
     </td>
   </tr>
 </div>
-# - 📫 My discord sen.eth |
+<p># - 📫 My discord sen.eth </p>|
 # - Donnation 🪙 | eth : 0x9dA19a5dC98F1c9E6de95a88CA8E9b76A580F1B8
 Thanks 
 <!---
