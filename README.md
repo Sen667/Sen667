@@ -42,9 +42,8 @@
     </td>
   </tr>
 </div>
-# - 📫 My discord sen.eth
-Donnation 🪙 : 
-eth : 0x9dA19a5dC98F1c9E6de95a88CA8E9b76A580F1B8
+# - 📫 My discord sen.eth |
+# - Donnation 🪙 | eth : 0x9dA19a5dC98F1c9E6de95a88CA8E9b76A580F1B8
 Thanks 
 <!---
 Sen667/Sen667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
