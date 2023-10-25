@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @Sen667</h1>
-<h3 align="center"><a href="https://seneth667.000webhostapp.com/"  target="_blank" rel="noreferrer">Actual Project </a>(soon)</h3>
+<h3 align="center"><a href="https://seneth667.000webhostapp.com/"  target="_blank" rel="noreferrer">Actual Project </a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sen667&label=Profile%20views&color=0e75b6&style=flat" alt="sen667" /> </p>
 
