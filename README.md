@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sen667&label=Profile%20views&color=0e75b6&style=flat" alt="sen667" /> </p>
 
-- 🌱 I’m currently learning **Javascipt, Python, HTML and CSS.**
+- 🌱 I’m currently learning **C# and NextJs.**
 
 - 📫 Reach me **discord : sen.eth**
 
