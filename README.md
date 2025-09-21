@@ -41,12 +41,6 @@ Tu veux discuter d'un projet, collaborer ou simplement échanger ? N'hésite pas
 
 ---
 
-## 📊 Mes stats GitHub
-
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=Sen667&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Sen667&layout=compact&theme=radical)
-
----
 
 ## 🎯 Mes objectifs
 
