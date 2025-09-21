@@ -14,6 +14,12 @@ Je suis un développeur front-end passionné, spécialisé dans la création d'i
 - **Outils** : Git, Figma, Vercel
 - **Animations** : AOS, Framer Motion, GSAP
 - **Autres** : Responsive Design, Accessibilité, SEO
+- 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
 
 ---
 
@@ -49,9 +55,3 @@ Tu veux discuter d'un projet, collaborer ou simplement échanger ? N'hésite pas
 - Collaborer sur des projets innovants et créatifs.
 - Contribuer à des projets open-source pour partager mes connaissances.
 
----
-
-⭐ **Fun Fact** : Je suis passionné par les interfaces fluides et les animations qui racontent une histoire.
-
----
-"Créer, c'est rendre visible ce qui ne l'était pas." 🚀
