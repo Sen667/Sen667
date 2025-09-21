@@ -14,7 +14,6 @@ Je suis un développeur front-end passionné, spécialisé dans la création d'i
 - **Outils** : Git, Figma, Vercel
 - **Animations** : AOS, Framer Motion, GSAP
 - **Autres** : Responsive Design, Accessibilité, SEO
-- 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -37,8 +36,8 @@ Voici quelques-uns de mes projets récents :
 Tu veux discuter d'un projet, collaborer ou simplement échanger ? N'hésite pas à me contacter :
 
 - **Email** : [mathishagnere230@gmail.com](mailto:mathishagnere230@gmail.com)
-- **LinkedIn** : *(Ajoute le lien si tu en as un)*
-- **Portfolio** : *(Ajoute le lien si tu en as un)*
+- **LinkedIn** : [https://www.linkedin.com/in/mathis-hagnere-6464b1236/]
+- **Portfolio** : [https://mathishagnere.vercel.app/]
 
 ---
 
