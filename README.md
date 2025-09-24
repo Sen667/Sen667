@@ -46,5 +46,5 @@ Tu veux discuter d'un projet, collaborer ou simplement échanger ? N'hésite pas
 
 - Continuer à apprendre et à maîtriser les dernières technologies front-end.
 - Collaborer sur des projets innovants et créatifs.
-- Contribuer à des projets open-source pour partager mes connaissances.
+- Contribuer à des projets open-source pour partager mes connaissances
 
