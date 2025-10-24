@@ -37,7 +37,7 @@ Tu veux discuter d'un projet, collaborer ou simplement échanger ? N'hésite pas
 
 - **Email** : [mathishagnere230@gmail.com](mailto:mathishagnere230@gmail.com)
 - **LinkedIn** : [https://www.linkedin.com/in/mathis-hagnere-6464b1236/]
-- **Portfolio** : [https://mathishagnere.vercel.app/]
+- **Portfolio** : [https://www.mathishagnere.dev/]
 
 ---
 
