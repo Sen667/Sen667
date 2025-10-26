@@ -1,8 +1,8 @@
-# hello im Sen 👋
+# hello im Mathis 👋
 
 **Développeur Front-End | Créateur d'expériences digitales intuitives et impactantes**
 
-Je suis un développeur front-end passionné, spécialisé dans la création d'interfaces modernes, fluides et centrées sur l'utilisateur. Mon objectif est de transformer des idées complexes en expériences visuelles et interactives qui captivent et inspirent.
+Je suis un etudiant / futur développeur front-end passionné, spécialisé dans la création d'interfaces modernes, fluides et centrées sur l'utilisateur. Mon objectif est de transformer des idées complexes en expériences visuelles et interactives qui captivent et inspirent.
 
 ---
 
