@@ -1,8 +1,8 @@
 # hello im Mathis 👋
 
-**Développeur Front-End | Créateur d'expériences digitales intuitives et impactantes**
+**Développeur Fullstack | Créateur d'expériences digitales intuitives et impactantes**
 
-Je suis un etudiant / futur développeur front-end passionné, spécialisé dans la création d'interfaces modernes, fluides et centrées sur l'utilisateur. Mon objectif est de transformer des idées complexes en expériences visuelles et interactives qui captivent et inspirent.
+Je suis un etudiant / futur développeur fullstack passionné, spécialisé dans la création d'interfaces modernes, fluides et centrées sur l'utilisateur. Mon objectif est de transformer des idées complexes en expériences visuelles et interactives qui captivent et inspirent.
 
 ---
 
@@ -44,7 +44,7 @@ Tu veux discuter d'un projet, collaborer ou simplement échanger ? N'hésite pas
 
 ## 🎯 Mes objectifs
 
-- Continuer à apprendre et à maîtriser les dernières technologies front-end.
+- Continuer à apprendre et à maîtriser les dernières technologies.
 - Collaborer sur des projets innovants et créatifs.
 - Contribuer à des projets open-source pour partager mes connaissances
 
