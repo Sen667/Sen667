@@ -27,7 +27,8 @@ Je suis un etudiant / futur développeur fullstack passionné, spécialisé dans
 Voici quelques-uns de mes projets récents :
 
 - **[Spacefox Concept](https://spacefox-app.vercel.app/)** : Une application web moderne conçue en collaboration avec Hugo Mouysset. *(Designer: Hugo Mouysset | Developer: Moi)*
-- **Portfolio personnel** : Un espace pour présenter mes compétences, mes projets et ma vision du développement front-end.
+- **[Sas Fayet](https://sasfayet.vercel.app/)**
+- **[Portofolio](https://mathishagnere.dev)** : Un espace pour présenter mes compétences, mes projets et ma vision du développement.
 
 ---
 
